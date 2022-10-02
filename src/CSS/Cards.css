@@ -1,0 +1,65 @@
+.row {
+    background-color: rgb(0, 0, 0);
+}
+
+.columnas {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+.card {
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    width: 300px;
+    height: 380px;
+    border-radius: 25px;
+    line-height: 10px;
+    text-align: center;
+}
+
+.card img {
+    margin-top: 15px;
+    width: 200px;
+}
+
+.titulo {
+    font-size: 25px;
+    color: #000;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+}
+
+.subtitulo {
+    font-size: 16px;
+    color: #000;
+}
+
+.text {
+    color: #000;
+}
+
+.text-preco {
+    font-size: 20px;
+    color: #000;
+    font-weight: 600;
+}
+
+.btn-uptade {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    padding: 3px 20px;
+    border: none;
+    border-radius: 10px;
+    margin-right: 5px;
+}
+
+.btn-delete {
+    color: rgb(255, 255, 255);;
+    background-color: rgb(0, 0, 0);
+    padding: 3px 20px;
+    border-radius: 10px;
+    border: none;
+    margin-left: 5px;
+}
